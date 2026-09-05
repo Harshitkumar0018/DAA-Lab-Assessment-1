@@ -2,8 +2,8 @@
 
 | Field | Details |
 |-------|--------|
-| **Author** | Aditya Shibu |
-| **Roll Number** | 2401201047 |
+| **Author** | Harshit Kumar |
+| **Roll Number** | 2401201057 |
 | **Course** | BCA (AI & DS) - Section B |
 | **Semester** | 5 |
 | **University** | K.R. Mangalam University |
